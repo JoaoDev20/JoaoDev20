@@ -19,7 +19,7 @@
 Sou um Engenheiro de Software Full Stack Júnior em formação, com interesse em criar soluções modernas e eficientes. Busco oportunidades para crescer profissionalmente, aplicando boas práticas de desenvolvimento e trabalhando em equipe.
 
 - 🌱 Atualmente estudando: **Java com Spring Boot** e **estruturação de APIs RESTful**
-- 🛠️ Stack principal:`Java`, `Spring Boot` , `JavaScript`, `React`, `Node.js`, `HTML`, `CSS`, `SQL`, `NoSQL`
+- 🛠️ Stack principal:`Java`, `Spring Boot` , `JavaScript`,`TypeScript`, `React`, `Node.js`, `HTML`, `CSS`, `SQL`, `NoSQL`
 - ⚙️ Ferramentas: `Git`, `PostgreSQL`, `MongoDB`, `VSCode`, `Figma`
 - 🧩 Curioso por: **Inteligência Artificial**, **DevOps**, e **Arquitetura de Software**
 - 📍 Localização: **Sumidouro - RJ, Brasil**

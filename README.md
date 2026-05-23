@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Victor and I'm a Software Engineer Full Stack, from Brasil</h2>
+<h2 align="left">Hi 👋! My name is João Victor and I'm a Software Engineer Backend, from Brasil</h2>
 <h1 align="center">👋 Olá, eu sou o João Victor!</h1>
 
 <p align="center">

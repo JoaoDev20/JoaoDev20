@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o João Victor!</h1>
 
 <p align="center">
-  💻 Engenheiro de Software Full Stack em formação <br>
+  💻 Engenheiro de Software Backend em formação <br>
   🚀 Apaixonado por tecnologia, inovação e soluções práticas <br>
   🎓 Estudante de Ciência da Computação (UNOPAR) | 2024 - 2027
 </p>
@@ -16,7 +16,7 @@
 
 ### 🧠 Sobre mim
 
-Sou um Engenheiro de Software Full Stack Júnior em formação, com interesse em criar soluções modernas e eficientes. Busco oportunidades para crescer profissionalmente, aplicando boas práticas de desenvolvimento e trabalhando em equipe.
+Sou um Engenheiro de Software Backend Júnior em formação, com interesse em criar soluções modernas e eficientes. Busco oportunidades para crescer profissionalmente, aplicando boas práticas de desenvolvimento e trabalhando em equipe.
 
 - 🌱 Atualmente estudando: **Java com Spring Boot** e **estruturação de APIs RESTful**
 - 🛠️ Stack principal:`Java`, `Spring Boot` , `JavaScript`,`TypeScript`, `React`, `Node.js`, `HTML`, `CSS`, `SQL`, `NoSQL`
